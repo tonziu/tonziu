@@ -4,9 +4,6 @@
   - 🎂 25 years old.
   - 💻 Graduate Electronics engineer.
 
-### What you can find here:
-My projects vary to simulations of electronic systems like Software Defined Radios to fun coding projects like the simulation of an ant colony.
-
 ⚠️ **This site is a work in progress.**
 
 ### Contact:
