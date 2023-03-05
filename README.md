@@ -8,7 +8,7 @@
 
 ### Contact:
 Here you can find my LinkedIn profile:
-  - 👨‍💼 [Check my LinkedIn profile.](www.linkedin.com/in/tonydecorso)
+  - 👨‍💼 [Check my LinkedIn profile.](https://www.linkedin.com/in/tonydecorso)
   
 Please refer to my email for any question: 
   - 📫 tony.dcorso@gmail.com
