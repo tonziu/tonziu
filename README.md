@@ -1,10 +1,4 @@
 # Welcome! 😊
-### About me:
-  - 🏠 Italian.
-  - 🎂 25 years old.
-  - 💻 Graduate Electronics engineer.
-
-⚠️ **This site is a work in progress.**
 
 ### Contact:
 Here you can find my LinkedIn profile:
@@ -12,3 +6,5 @@ Here you can find my LinkedIn profile:
   
 Please refer to my email for any question: 
   - 📫 tony.dcorso@gmail.com
+
+⚠️ **This profile is a work in progress.**
